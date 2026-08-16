@@ -114,12 +114,46 @@ Not just prediction — a custom-built ML model from scratch without scikit-lear
 <img src="https://img.shields.io/badge/C-141691?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### 🤖 AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+<table align="center">
+<tr>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=tensorflow" height="50"/><br/>
+<b>TensorFlow</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=pytorch" height="50"/><br/>
+<b>PyTorch</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=sklearn" height="50"/><br/>
+<b>scikit-learn</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/><br/>
+<b>Pandas</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/><br/>
+<b>NumPy</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/><br/>
+<b>Matplotlib</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50"/><br/>
+<b>Seaborn</b>
+</td>
+
+</tr>
+</table>
 
 ### 📈 Analytics
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
