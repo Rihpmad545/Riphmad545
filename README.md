@@ -111,7 +111,26 @@ Not just prediction — a custom-built ML model from scratch without scikit-lear
 ## ⚡ Tech Arsenal
 
 ### ⌨️ Languages
-<img src="https://img.shields.io/badge/C-141691?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<table align="center">
+<tr>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=c" height="50"/><br/>
+<b>C</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/><br/>
+<b>C++</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=python" height="50"/><br/>
+<b>Python</b>
+</td>
+
+</tr>
+</table>
 
 ### 🤖 AI/ML
 <table align="center">
@@ -162,16 +181,58 @@ Not just prediction — a custom-built ML model from scratch without scikit-lear
 
 
 ### 🛠️ Frameworks & Databases
-<p align="center">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-</div>
+<table align="center">
+<tr>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=django" height="50"/><br/>
+<b>Django</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/><br/>
+<b>MongoDB</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40"/><br/>
+<b>Streamlit</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=flask" height="50"/><br/>
+<b>Flask</b>
+</td>
+
+</tr>
+</table>
 
 ### 🧠 LLMs & AI Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+<table align="center">
+<tr>
 
+<td align="center" width="130">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" height="50" style="filter: invert(1);"/><br/>
+<b>OpenAI</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="50"/><br/>
+<b>Ollama</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/qwen/615EFF" height="50"/><br/>
+<b>Qwen</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/deepseek/4D6BFE" height="50"/><br/>
+<b>DeepSeek</b>
+</td>
+
+</tr>
+</table>
 
 <div align="center">
 <h2> 📈 GitHub Analytics</h2>
