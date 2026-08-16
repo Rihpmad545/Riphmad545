@@ -175,9 +175,31 @@ Not just prediction — a custom-built ML model from scratch without scikit-lear
 </table>
 
 ### 📈 Analytics
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<table align="center">
+<tr>
+
+<td align="center" width="130">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50"/><br/>
+<b>MATLAB</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="40"/><br/>
+<b>Power BI</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="50"/><br/>
+<b>MySQL</b>
+</td>
+
+<td align="center" width="130">
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="50"/><br/>
+<b>Linux</b>
+</td>
+
+</tr>
+</table>
 
 
 ### 🛠️ Frameworks & Databases
