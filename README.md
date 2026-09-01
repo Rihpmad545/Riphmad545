@@ -85,11 +85,6 @@
 <tr>
 
 <td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=tensorflow" height="50"/><br/>
-<b>TensorFlow</b>
-</td>
-
-<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=pytorch" height="50"/><br/>
 <b>PyTorch</b>
 </td>
